@@ -16,7 +16,10 @@ There are two files in the 'data' folder. First one the actual data (*lending_cl
 Data CSV file has 27 columns:
 
 ```bash
-'loan_amnt', 'term', 'int_rate', 'installment', 'grade', 'sub_grade', 'emp_title', 'emp_length', 'home_ownership', 'annual_inc', 'verification_status', 'issue_d', 'loan_status', 'purpose', 'title', 'dti', 'earliest_cr_line', 'open_acc', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 'initial_list_status', 'application_type', 'mort_acc', 'pub_rec_bankruptcies', 'address'
+'loan_amnt', 'term', 'int_rate', 'installment', 'grade', 'sub_grade', 'emp_title', 'emp_length', 
+'home_ownership', 'annual_inc', 'verification_status', 'issue_d', 'loan_status', 'purpose', 'title', 
+'dti', 'earliest_cr_line', 'open_acc', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 
+'initial_list_status', 'application_type', 'mort_acc', 'pub_rec_bankruptcies', 'address'
 ```
 
 The goal of this project is to build a model that can predict whether or not a borrower will pay back their loan.
