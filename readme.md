@@ -63,7 +63,7 @@ For the modeling I have created an Artifical Neural Network.
 The network has four layers, one input, two hidden and one output.
 The shape is shown in the picture below.
 
-![Network](neural_network)
+![image](neural_network.jpg)
 
 I have trained the model for 20 epochs, with batch size 2048.
 
@@ -74,7 +74,7 @@ Classification report
 
 		0 	0.98		0.44	0.61
 		1 	0.88 		1.00 	0.93
- Accuracy 						0.89
+ Accuracy 				0.89
 
 
 Confusion matrix
