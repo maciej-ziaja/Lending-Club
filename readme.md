@@ -70,11 +70,11 @@ I have trained the model for 20 epochs, with batch size 2048.
 ```bash
 Classification report
 
-			Precision	Recall	f1-score
+		Precision	Recall	f1-score
 
-		0 	0.98		0.44	0.61
-		1 	0.88 		1.00 	0.93
- Accuracy 				0.89
+	0 	0.98		0.44	0.61
+	1 	0.88 		1.00 	0.93
+ Accuracy 					0.89
 
 
 Confusion matrix
