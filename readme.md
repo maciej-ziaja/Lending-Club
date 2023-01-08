@@ -4,8 +4,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-9933CC.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23E7EEF0.svg?
-style=for-the-badge&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23E7EEF0.svg?style=for-the-badge&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-217346.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -64,7 +63,7 @@ For the modeling I have created an Artifical Neural Network.
 The network has four layers, one input, two hidden and one output.
 The shape is shown in the picture below.
 
-![Network](neural_network.jpg)
+![Network](neural_network)
 
 I have trained the model for 20 epochs, with batch size 2048.
 
